@@ -83,7 +83,7 @@ body {
     width: 20px;
     height: 20px;
     left: 6px;
-    top: -1px;
+    top: -2px;
     border: 2px solid #2b9ae0;
     border-radius: 50%;
 }
@@ -93,7 +93,7 @@ body {
     width: 10px;
     height: 10px;
     left: 10px;
-    bottom: 1px;
+    bottom: 2px;
     border: 3px solid #129af5;
     border-radius: 50%;
     opacity: 0;
